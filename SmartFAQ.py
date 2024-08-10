@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import openai
-import torch
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Set your OpenAI API key
